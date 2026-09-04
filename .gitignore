@@ -1,3 +1,7 @@
+/vendor
+/node_modules
+/.idea
+
 /src/vendor
 /src/node_modules
 /src/.env
