@@ -211,5 +211,5 @@ docker-compose run --rm artisan migrate --seed
 | Участник | Основные направления |
 |---|---|
 | [justaguy0-0](https://github.com/justaguy0-0) | админ-панель, каталог рейсов, общая сборка проекта |
-| [Danila Valov](https://github.com/sliven1) | магазин и бронирование, оплата, лояльность, личный кабинет |
+| [wall-low](https://github.com/wall-low) | магазин и бронирование, оплата, лояльность, личный кабинет |
 | [ynat28](https://github.com/ynat28) | вёрстка отдельных страниц |
